@@ -12,3 +12,5 @@ To install have node installed on your system and clone the repo on to your loca
 ## Usage
 
 To use, simply follow the installation steps above and go through with the quiz. To test run a npm run cypress to run simple tests.
+
+Video Walkthrough [Here](https://drive.google.com/drive/u/0/folders/1-eyJFDmDarDpWb_xTmDw0zcu5KOOiAdN)
